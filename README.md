@@ -112,15 +112,18 @@ Customize the AI's behavior by modifying the system prompt in the sidebar. The d
 
 ## 📁 Project Structure
 
-```
 ai-document-assistant/
 ├── app.py                 # Main Streamlit application
 ├── requirements.txt       # Python dependencies
 ├── README.md             # Project documentation
-└── data/
-    └── vectorstore/      # FAISS vector store data
-        └── my_store/     # Persistent embeddings and conversation history
-```
+├── data/
+│   └── vectorstore/      # FAISS vector store data
+│       └── my_store/     # Persistent embeddings and conversation history
+└── output/               # Output folder for generated files
+    ├── output1.png       # First PNG output file
+    ├── output2.png       # Second PNG output file
+    ├── output3.png       # Third PNG output file
+    └── output4.mp4       # MP4 output file
 
 ## 🔧 Key Functions
 
