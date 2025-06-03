@@ -1,0 +1,106 @@
+[
+    {
+        "question": "what is my project procedure",
+        "answer": "Based on the provided context, it appears that TripBot AI follows a structured workflow, which involves:\n\n1. Users selecting a feature (e.g., trip planning, budget estimation, or location identification).\n2. Users inputting a query in either text or image format.\n3. The Google Gemini AI model processing the user's input.\n4. The Flask backend handling communication between the user interface and AI services to ensure a smooth and responsive user experience.\n5. Web scraping techniques (using BeautifulSoup and Requests) employed to fetch data related to flight availability, hotel pricing, and location-based recommendations.\n6. Scraped data combined with AI-generated responses displayed in an easy-to-understand format.\n7. API integrations with travel booking platforms allowing users to access direct booking options.\n\nThis structured workflow enables TripBot AI to provide real-time travel insights, personalized recommendations, and seamless planning experiences for users.",
+        "timestamp": "2025-06-03 12:52:27",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 2
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 1
+                }
+            }
+        ]
+    },
+    {
+        "question": "what is ",
+        "answer": "Based on the provided context, it appears that the system helps with making travel planning more accessible and enjoyable by:\n\n* Generating customized travel recommendations based on user interests\n* Providing flight availability, hotel pricing, and location-based recommendations\n* Allowing direct booking options through API integrations with travel booking platforms\n\nSo, a helpful answer would be: \"This travel planning system helps users make informed decisions about their trips and book travel arrangements seamlessly.\"",
+        "timestamp": "2025-06-03 13:15:22",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 2
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 4
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 6
+                }
+            }
+        ]
+    },
+    {
+        "question": "Who developed this project and under whose guidance?",
+        "answer": "I don't know. The provided context does not mention who developed the TripBot AI project or under whose guidance it was created. It only provides information about the technologies used, features, and benefits of the system.",
+        "timestamp": "2025-06-03 13:17:52",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 8
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 5
+                }
+            }
+        ]
+    },
+    {
+        "question": "what is the name of project and what  technologies used in it?",
+        "answer": "According to the context, the name of the project is TripBot AI. The technologies used in this project are:\n\n* Programming Language: Python\n* Framework: Flask (Backend)\n* AI Model: Google Gemini AI (Text & Image Processing)\n* Cloud API: Google Generative AI API\n* Database: MySQL (Stores extracted travel data from web scraping)\n* Web Scraping: BeautifulSoup, Requests (Extracts real-time travel information from the web)\n* Training Data: CSV Files (Used to train AI models for improved recommendations)",
+        "timestamp": "2025-06-03 13:20:36",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 8
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 5
+                }
+            }
+        ]
+    }
+]
