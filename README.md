@@ -111,7 +111,7 @@ Customize the AI's behavior by modifying the system prompt in the sidebar. The d
 - **Vector Store**: FAISS with local persistence
 
 ## 📁 Project Structure
-
+'''
 ai-document-assistant/
 ├── app.py                 # Main Streamlit application
 ├── requirements.txt       # Python dependencies
@@ -124,7 +124,7 @@ ai-document-assistant/
     ├── output2.png       # Second PNG output file
     ├── output3.png       # Third PNG output file
     └── output4.mp4       # MP4 output file
-
+'''
 ## 🔧 Key Functions
 
 - `read_data()`: Extract text from uploaded PDF files
