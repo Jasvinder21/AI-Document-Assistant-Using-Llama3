@@ -48,7 +48,7 @@ ollama pull llama3:instruct
 ### Step 3: Clone the Repository
 
 bash
-git clone https://github.com/yourusername/ai-document-assistant.git
+git clone https://github.com/Jasvinder21/ai-document-assistant.git
 cd ai-document-assistant
 
 
