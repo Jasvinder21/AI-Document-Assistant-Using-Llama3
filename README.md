@@ -2,6 +2,7 @@
 
 Your intelligent document analysis companion powered by LLaMA 3 and advanced RAG (Retrieval-Augmented Generation) technology.
 ![image](https://github.com/user-attachments/assets/e153ed29-ba03-4125-8f1b-7d9169830b0e)
+![image](https://github.com/user-attachments/assets/40aaa7d8-7ceb-446a-9d37-8f6e145eb0de)
 
 ## 📋 Overview
 
