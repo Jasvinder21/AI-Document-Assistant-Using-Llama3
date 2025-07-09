@@ -1,0 +1,392 @@
+[
+    {
+        "question": "what is my project procedure",
+        "answer": "Based on the provided context, it appears that TripBot AI follows a structured workflow, which involves:\n\n1. Users selecting a feature (e.g., trip planning, budget estimation, or location identification).\n2. Users inputting a query in either text or image format.\n3. The Google Gemini AI model processing the user's input.\n4. The Flask backend handling communication between the user interface and AI services to ensure a smooth and responsive user experience.\n5. Web scraping techniques (using BeautifulSoup and Requests) employed to fetch data related to flight availability, hotel pricing, and location-based recommendations.\n6. Scraped data combined with AI-generated responses displayed in an easy-to-understand format.\n7. API integrations with travel booking platforms allowing users to access direct booking options.\n\nThis structured workflow enables TripBot AI to provide real-time travel insights, personalized recommendations, and seamless planning experiences for users.",
+        "timestamp": "2025-06-03 12:52:27",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 2
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 1
+                }
+            }
+        ]
+    },
+    {
+        "question": "what is ",
+        "answer": "Based on the provided context, it appears that the system helps with making travel planning more accessible and enjoyable by:\n\n* Generating customized travel recommendations based on user interests\n* Providing flight availability, hotel pricing, and location-based recommendations\n* Allowing direct booking options through API integrations with travel booking platforms\n\nSo, a helpful answer would be: \"This travel planning system helps users make informed decisions about their trips and book travel arrangements seamlessly.\"",
+        "timestamp": "2025-06-03 13:15:22",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 2
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 4
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 6
+                }
+            }
+        ]
+    },
+    {
+        "question": "Who developed this project and under whose guidance?",
+        "answer": "I don't know. The provided context does not mention who developed the TripBot AI project or under whose guidance it was created. It only provides information about the technologies used, features, and benefits of the system.",
+        "timestamp": "2025-06-03 13:17:52",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 8
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 5
+                }
+            }
+        ]
+    },
+    {
+        "question": "what is the name of project and what  technologies used in it?",
+        "answer": "According to the context, the name of the project is TripBot AI. The technologies used in this project are:\n\n* Programming Language: Python\n* Framework: Flask (Backend)\n* AI Model: Google Gemini AI (Text & Image Processing)\n* Cloud API: Google Generative AI API\n* Database: MySQL (Stores extracted travel data from web scraping)\n* Web Scraping: BeautifulSoup, Requests (Extracts real-time travel information from the web)\n* Training Data: CSV Files (Used to train AI models for improved recommendations)",
+        "timestamp": "2025-06-03 13:20:36",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 8
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 5
+                }
+            }
+        ]
+    },
+    {
+        "question": "features of this project?",
+        "answer": "Based on the provided context, the features of this project appear to be:\n\n1. Machine learning concepts:\n\t* Overfitting and underfitting\n\t* Support Vector Machines (SVM)\n\t* K-Nearest Neighbors (KNN)\n\t* K-Means Clustering\n\t* Neural Networks\n\t* Principal Component Analysis (PCA)\n\n2. Model evaluation metrics:\n\t* Accuracy",
+        "timestamp": "2025-06-03 13:28:24",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "Machine Learning Concepts.pdf",
+                    "page_number": 1
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Machine Learning Concepts.pdf",
+                    "page_number": 2
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Machine Learning Concepts.pdf",
+                    "page_number": 2
+                }
+            }
+        ]
+    },
+    {
+        "question": "features of this project?",
+        "answer": "Based on the given context, the features of the TripBot AI project include:\n\n1. Continuous AI learning\n2. Scalability\n3. Security measures for data privacy\n4. Voice assistance\n5. IoT-based travel insights\n6. Intelligent automation for better experiences\n\nThese features aim to make travel planning more accessible and enjoyable by providing seamless, personalized, and optimized suggestions while ensuring the security and reliability of user information.",
+        "timestamp": "2025-06-03 13:39:15",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 2
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 8
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 6
+                }
+            }
+        ]
+    },
+    {
+        "question": "What are the main objectives of the TripBot AI system?",
+        "answer": "According to the provided context, the main objectives of the TripBot AI system include:\n\n1. Ensuring personalized and optimized suggestions\n2. Improving the overall travel planning experience through enhanced security measures for safe data handling\n3. Providing intelligent automation for better experiences\n4. Continuous AI learning to refine future recommendations and improve accuracy\n5. Scalability to adapt to increasing user demands and new functionalities\n\nThese objectives aim to make travel planning more efficient, convenient, and enjoyable by leveraging AI-driven technology.",
+        "timestamp": "2025-06-03 13:40:08",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 8
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Synopsis major project 1.pdf",
+                    "page_number": 8
+                }
+            }
+        ]
+    },
+    {
+        "question": "What is Machine Learning and how does it differ from traditional programming?",
+        "answer": "I don't know the answer to that question. The provided text only defines various machine learning concepts such as Support Vector Machines (SVM), K-Nearest Neighbors (KNN), K-Means Clustering, Neural Networks, Decision Trees, and Random Forest, without explaining what machine learning is or how it differs from traditional programming.",
+        "timestamp": "2025-06-03 13:47:56",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "Machine Learning Concepts.pdf",
+                    "page_number": 2
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Machine Learning Concepts.pdf",
+                    "page_number": 2
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Machine Learning Concepts.pdf",
+                    "page_number": 1
+                }
+            }
+        ]
+    },
+    {
+        "question": "What are the four main types of machine learning and how do they differ?",
+        "answer": "The four main types of machine learning mentioned in the provided context are:\n\n1. **Supervised Learning**: This type involves training a model using labeled data, where the goal is to make predictions on unseen data. Examples include Support Vector Machines (SVM), Linear Regression, Logistic Regression.\n2. **Unsupervised Learning**: This type involves discovering patterns or structure in unlabeled data. Examples include K-Means Clustering and decision trees used for clustering.\n3. **Reinforcement Learning**: This type involves training a model to make decisions by interacting with an environment and receiving feedback in the form of rewards or penalties. No specific examples are mentioned in this context, but it's an important area of machine learning.\n4. **Semi-Supervised Learning**: This type involves combining elements of supervised and unsupervised learning, where some data is labeled, while others are not. No specific examples are mentioned in this context.\n\nThe main differences between these types lie in the availability of labeled data, the goal of the algorithm (prediction, clustering, or decision-making), and the approach used to achieve that goal.",
+        "timestamp": "2025-06-03 13:49:48",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "Machine Learning Concepts.pdf",
+                    "page_number": 2
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Machine Learning Concepts.pdf",
+                    "page_number": 2
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Machine Learning Concepts.pdf",
+                    "page_number": 2
+                }
+            }
+        ]
+    },
+    {
+        "question": "what is in this pdf?",
+        "answer": "According to the text, this PDF contains information about machine learning concepts, specifically:\n\n1. Overfitting and Underfitting\n2. Principal Component Analysis (PCA)\n3. Model Evaluation Metrics (including Accuracy)\n\nIt appears to be a educational or tutorial-like content, aiming to help readers understand these foundational concepts in machine learning.",
+        "timestamp": "2025-06-23 00:40:48",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "Machine Learning Concepts.pdf",
+                    "page_number": 1
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Machine Learning Concepts.pdf",
+                    "page_number": 2
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Machine Learning Concepts.pdf",
+                    "page_number": 3
+                }
+            }
+        ]
+    },
+    {
+        "question": "what is machine learning?",
+        "answer": "Based on the provided context, here's an answer:\n\nMachine learning is a subfield of artificial intelligence that involves training algorithms on data to enable them to make predictions or take actions without being explicitly programmed.",
+        "timestamp": "2025-07-08 12:23:57",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "Machine Learning Concepts.pdf",
+                    "page_number": 2
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Machine Learning Concepts.pdf",
+                    "page_number": 1
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Machine Learning Concepts.pdf",
+                    "page_number": 2
+                }
+            }
+        ]
+    },
+    {
+        "question": " What are the four main types of machine learning and how do they differ?",
+        "answer": "According to the provided context, the four main types of machine learning are:\n\n1. **Supervised Learning**: This involves training a model on labeled data to make predictions on new, unseen data. Examples include Support Vector Machines (SVM), Decision Trees, and Neural Networks.\n2. **Unsupervised Learning**: This type of learning does not require labeled data. Instead, the algorithm finds patterns or relationships in the data without a specific goal or outcome. K-Means Clustering is an example of unsupervised learning.\n3. **Reinforcement Learning**: This involves training a model to make decisions by interacting with an environment and receiving rewards or penalties for its actions.\n4. **Semi-supervised Learning**: This combines elements of supervised and unsupervised learning, where the algorithm uses both labeled and unlabeled data to train a model.\n\nThe main difference between these types is the availability and quality of training data, as well as the goal of the learning process.",
+        "timestamp": "2025-07-08 12:25:43",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "Machine Learning Concepts.pdf",
+                    "page_number": 2
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Machine Learning Concepts.pdf",
+                    "page_number": 2
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Machine Learning Concepts.pdf",
+                    "page_number": 1
+                }
+            }
+        ]
+    },
+    {
+        "question": "what is overfitting?",
+        "answer": "According to the context, overfitting is \"The model learns the training data too well, including noise and outliers, making it perform poorly on new, unseen data (high variance)\".",
+        "timestamp": "2025-07-09 12:42:11",
+        "llm_model": "llama3",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "Machine Learning Concepts.pdf",
+                    "page_number": 1
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Machine Learning Concepts.pdf",
+                    "page_number": 2
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Machine Learning Concepts.pdf",
+                    "page_number": 1
+                }
+            }
+        ]
+    },
+    {
+        "question": "What are the four main types of machine learning and how do they differ?",
+        "answer": "Based on the provided context, I can identify three main types of Machine Learning (ML):\n\n1. **Supervised Learning**: The model learns from labeled data, where the input and output pairs are provided.\n2. **Reinforcement Learning**: The model learns by interacting with an environment, receiving rewards or penalties for actions, and improving based on this feedback.\n\nThere is no mention of a fourth type of Machine Learning in the provided context. Therefore, I don't know the answer to the question about the four main types of machine learning and how they differ.",
+        "timestamp": "2025-07-09 12:44:00",
+        "llm_model": "llama3",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "Machine Learning Concepts.pdf",
+                    "page_number": 1
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Machine Learning Concepts.pdf",
+                    "page_number": 1
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Machine Learning Concepts.pdf",
+                    "page_number": 2
+                }
+            }
+        ]
+    },
+    {
+        "question": "What is machine learning ?",
+        "answer": "According to the provided context, Machine Learning (ML) is a subset of Artificial Intelligence (AI) that allows systems to learn and improve from experience without being explicitly programmed. It involves algorithms that can identify patterns, make predictions, and improve their performance over time.",
+        "timestamp": "2025-07-09 12:50:09",
+        "llm_model": "llama3",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "Machine Learning Concepts.pdf",
+                    "page_number": 1
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Machine Learning Concepts.pdf",
+                    "page_number": 1
+                }
+            },
+            {
+                "metadata": {
+                    "source": "Machine Learning Concepts.pdf",
+                    "page_number": 1
+                }
+            }
+        ]
+    }
+]
