@@ -1,8 +1,8 @@
 # 🤖 AI Document Assistant Using Llama3
 Your intelligent document analysis companion powered by LLaMA 3 and advanced RAG (Retrieval-Augmented Generation) technology.
 
-![image](https://github.com/user-attachments/assets/2e533af5-cc31-4393-a9fc-0ae215c924db)
-![image](https://github.com/user-attachments/assets/e70fa1a9-2b9f-43d9-a348-1a6eec5fc319)
+![image](https://github.com/user-attachments/assets/789ccb58-f7f4-4f8e-bcd9-28d40735dc7f)
+![image](https://github.com/user-attachments/assets/d314b60e-6e87-4bae-b2b4-415a2ea10d47)
 
 
 ## 📖 Overview
