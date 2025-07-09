@@ -4,6 +4,7 @@ Your intelligent document analysis companion powered by LLaMA 3 and advanced RAG
 ![image](https://github.com/user-attachments/assets/2e533af5-cc31-4393-a9fc-0ae215c924db)
 ![image](https://github.com/user-attachments/assets/e70fa1a9-2b9f-43d9-a348-1a6eec5fc319)
 
+
 ## 📖 Overview
 - The AI Document Assistant is a Streamlit-based web application that allows users to upload PDF documents and interact with them via natural language queries. Powered by LLaMA 3 and advanced RAG techniques, it provides accurate, context-aware responses, making it perfect for researchers, professionals, and students.
   
